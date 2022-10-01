@@ -4,8 +4,8 @@ using namespace std;
 
 #define _ ios_base::sync_with_stdio(0);cin.tie(0);
 #define endl '\n'
-#define push_back pb
-#define emplace_back eb
+#define pb push_back
+#define eb emplace_back
 
 typedef long long ll;
 
